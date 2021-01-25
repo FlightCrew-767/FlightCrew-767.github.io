@@ -1,0 +1,31 @@
+<html> 
+  <head>
+    <title>2021 YEAR OF CHANGE</title>
+    <link rel="stylesheet" href="./resourses/css/index.css"> 
+  </head>
+ 
+  <body> 
+    <h1>2021 YEAR OF CHANGE</h1> 
+    <h2>Planned Events</h2>
+    
+    <ol>
+        <li>Learn Front-End</li>
+        <li>Get a Job as Front-End Engineer</li>
+        <li>Learn Full-Stack</li>
+        <li>Back to Ashtanga Yoga</li>
+        <li>Isha Kriya Meditations</li>
+        <li>Ram Dass Meditations and Teachings</li>
+        <li>Healthy Eating 3.0</li>
+        <li>Mental Health</li>
+    </ol>
+    <img src="./resourses/css/images/IMG_6789.JPG" alt="lotus flower"/>
+    <img id="palms" src="./resourses/css/images/IMG_6694.JPG"/>
+    <section>
+        <input type="checkbox">Are You Ready?</div>
+        <label id="yes">Yes</label>
+            </section>
+    <button>
+        Insrired by tech
+    </footer>
+  </body>
+</html>
